@@ -1,0 +1,1 @@
+# Templates: Some simple, nicely formatted starts to a typical query. To encourage good formatting, remember different elements, and hopefully save a bit of time by not having to type out SELECT, FROM, WHERE, GROUP BY, ORDER BY 50 times a day...8 mins a day of time saved is about 30 hours a year!
