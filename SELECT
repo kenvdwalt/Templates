@@ -2,6 +2,7 @@ SELECT      ,
 
 
 FROM        AS
+INNER JOIN	
 
 WHERE       IS
 --AND       IS
