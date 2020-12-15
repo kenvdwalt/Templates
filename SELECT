@@ -1,13 +1,11 @@
-SELECT      ,
+select		,
 
+from      f
 
-FROM        AS
-INNER JOIN	
+--inner join
 
-WHERE       IS
---AND       IS
---OR        IS
+where		  f
 
---GROUP BY  1
+group by	f.
 
-ORDER BY    ,
+order by	f.
